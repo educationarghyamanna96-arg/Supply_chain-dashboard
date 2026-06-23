@@ -23,3 +23,6 @@ Supply Chain Optimization &amp; Demand Forecasting Dashboard ​An interactive P
 ​**Data Transformation: Power Query (ETL)**
 
 ​**Modeling & Metrics: DAX (Data Analysis Expressions)**
+
+**Screenshots / Demo**
+**show how it looks like. :**

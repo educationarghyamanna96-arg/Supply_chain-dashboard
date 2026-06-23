@@ -24,5 +24,9 @@ Supply Chain Optimization &amp; Demand Forecasting Dashboard ​An interactive P
 
 ​**Modeling & Metrics: DAX (Data Analysis Expressions)**
 
+
+
+
 **Screenshots / Demo**
-**show how it looks like. :**
+
+**Show how it looks like. :** https://github.com/educationarghyamanna96-arg/Supply_chain-dashboard/blob/main/Dashboard.jpg
